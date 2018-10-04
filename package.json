@@ -1,0 +1,22 @@
+{
+  "name": "verilog",
+  "version": "0.1.0",
+  "description": "wavedrom to verilog converter",
+  "main": "lib/",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/verilog.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/verilog/issues"
+  },
+  "homepage": "https://github.com/drom/verilog#readme"
+}
